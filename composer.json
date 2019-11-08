@@ -1,0 +1,9 @@
+{
+    "require": {
+        "google/cloud": "^0.115.0",
+        "google/cloud-firestore": "^1.9",
+      "ext-json": "*",
+        "kreait/firebase-php": "^4.35",
+        "php" : ">=7.3.0"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "phpbase",
+  "version": "1.0.0",
+  "description": "radioafrica",
+  "main": "form.js",
+  "dependencies": {
+    "firebase": "^7.2.3",
+    "firebase-admin": "^8.6.1",
+    "firebaseui": "^4.2.0",
+    "geofirestore": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timothy Ndichu",
+  "license": "ISC"
+}
